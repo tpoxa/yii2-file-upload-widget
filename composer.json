@@ -1,5 +1,6 @@
 {
     "name": "mtrofimenko/yii2-file-upload-widget",
+    "version": "1.0.3",
     "description": "Blueimp file upload widget for the Yii framework",
     "keywords": [
         "2amigos",
