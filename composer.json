@@ -11,7 +11,7 @@
     ],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
-    "homepage": "https://github.com/2amigos/yii2-file-upload-widget",
+    "homepage": "https://github.com/tpoxa/yii2-file-upload-widget",
     "authors": [
         {
             "name": "Alexander Kochetov",
