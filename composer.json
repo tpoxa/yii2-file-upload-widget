@@ -1,9 +1,8 @@
 {
     "name": "mtrofimenko/yii2-file-upload-widget",
-    "version": "1.0.3",
+    "version": "1.0.5",
     "description": "Blueimp file upload widget for the Yii framework",
     "keywords": [
-        "2amigos",
         "yii",
         "yii2",
         "yii 2",
@@ -44,9 +43,6 @@
         "asset-installer-paths": {
             "npm-asset-library": "vendor/npm",
             "bower-asset-library": "vendor/bower"
-        },
-        "branch-alias": {
-            "dev-master": "1.0-dev"
         }
     }
 }
