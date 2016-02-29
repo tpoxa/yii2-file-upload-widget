@@ -95,8 +95,6 @@ use dosamigos\fileupload\FileUploadUI;
 ?>
 ```
 
-Please, check the [jQuery File Upload documentation](https://github.com/blueimp/jQuery-File-Upload/wiki) for further information about its configuration options.
-
 ## Testing
 
 ```bash
